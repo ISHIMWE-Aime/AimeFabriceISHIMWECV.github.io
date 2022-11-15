@@ -62,13 +62,13 @@ table, td{
 }
 
 #imgAndTittle{
-    background-color: D9D9D9;
+    background-color: #D9D9D9;
     border-bottom-left-radius: 40px;
     border-bottom-right-radius: 40px;
     height: 70%;
 }
 img:hover{
-    transform: scale(1.1);
+    transform: scale(1.15);
     border-radius: 20px;
 }
 #Titlle__content{
@@ -79,7 +79,7 @@ img:hover{
     top: 50%
 }
 .homePage{
-    background-color: 235456;
+    background-color: #235456;
     width: auto;
     height: auto;
 }
